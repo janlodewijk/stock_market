@@ -1,0 +1,7 @@
+TICKERS = [
+    "AAPL", "MSFT", "AMZN", "GOOGL", "TSLA", "NVDA", "META", "BRK-B", "JNJ", "JPM",
+    "ASML.AS", "UNA.AS", "INGA.AS", "VOW3.DE", "SIE.DE", "SAP.DE",
+    "BP.L", "HSBA.L", "AZN.L", "MC.PA", "TTE.PA", "AIR.PA",
+    "7203.T", "6758.T", "9984.T", "0700.HK", "9988.HK", "0005.HK",
+    "601398.SS", "601857.SS", "601939.SS", "RELIANCE.BO", "TATAMOTORS.BO", "INFY.BO"
+]

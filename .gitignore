@@ -1,3 +1,4 @@
 .env
 Step-by-step approach.txt
 venv/
+__pycache__/
